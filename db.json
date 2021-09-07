@@ -1,0 +1,288 @@
+{
+    "departments": [
+        {
+            "id": "1",
+            "title": "Development"
+        },
+        {
+            "id": "2",
+            "title": "Marketing"
+        },
+        {
+            "id": "3",
+            "title": "Accounting"
+        },
+        {
+            "id": "4",
+            "title": "HR"
+        }
+    ],
+    "employee": [
+        {
+            "id": 1,
+            "fullName": "helvetica lipsum",
+            "email": "a@a.com",
+            "mobile": "0123456789",
+            "city": "mars",
+            "gender": "male",
+            "departmentId": 1,
+            "hireDate": "",
+            "isPermanent": "false"
+        },
+        {
+            "id": 2,
+            "fullName": "helvetica lipsum",
+            "email": "a@a.com",
+            "mobile": "0123456789",
+            "city": "mars",
+            "gender": "male",
+            "departmentId": 1,
+            "hireDate": "",
+            "isPermanent": "false"
+        },
+        {
+            "id": 3,
+            "fullName": "helvetica lipsum",
+            "email": "a@a.com",
+            "mobile": "0123456789",
+            "city": "mars",
+            "gender": "male",
+            "departmentId": 1,
+            "hireDate": "",
+            "isPermanent": "false"
+        },
+        {
+            "id": 4,
+            "fullName": "helvetica lipsum",
+            "email": "a@a.com",
+            "mobile": "0123456789",
+            "city": "mars",
+            "gender": "male",
+            "departmentId": 1,
+            "hireDate": "",
+            "isPermanent": "false"
+        },
+        {
+            "id": 5,
+            "fullName": "helvetica lipsum",
+            "email": "a@a.com",
+            "mobile": "0123456789",
+            "city": "mars",
+            "gender": "male",
+            "departmentId": 1,
+            "hireDate": "",
+            "isPermanent": "false"
+        },
+        {
+            "id": 6,
+            "fullName": "helvetica lipsum",
+            "email": "a@a.com",
+            "mobile": "0123456789",
+            "city": "mars",
+            "gender": "male",
+            "departmentId": 1,
+            "hireDate": "",
+            "isPermanent": "false"
+        }
+    ],
+    "menu": [
+        {
+            "id": "1",
+            "name": "Home 1",
+            "url": "/",
+            "children": []
+        },
+        {
+            "id": "2",
+            "name": "Employee 1",
+            "url": "/employee",
+            "children": []
+        },
+        {
+            "id": "3",
+            "name": "Categories 1",
+            "url": "",
+            "children": [
+                {
+                    "id": "4",
+                    "name": "Social",
+                    "url": "/social",
+                    "children": []
+                },
+                {
+                    "id": "5",
+                    "name": "Updates",
+                    "url": "/",
+                    "children": [
+                        {
+                            "id": "161",
+                            "name": "Home 4",
+                            "url": "/",
+                            "children": []
+                        },
+                        {
+                            "id": "171",
+                            "name": "Employee 4",
+                            "url": "/employee",
+                            "children": []
+                        }]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Home 2",
+            "url": "/",
+            "children": []
+        },
+        {
+            "id": "7",
+            "name": "Employee 2",
+            "url": "/employee2",
+            "children": []
+        },
+        {
+            "id": "8",
+            "name": "Categories 2",
+            "url": "",
+            "children": [
+                {
+                    "id": "9",
+                    "name": "Social",
+                    "url": "/social",
+                    "children": []
+                },
+                {
+                    "id": "10",
+                    "name": "Updates",
+                    "url": "/",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Home 3",
+            "url": "/",
+            "children": []
+        },
+        {
+            "id": "12",
+            "name": "Employee 3",
+            "url": "/employee",
+            "children": []
+        },
+        {
+            "id": "13",
+            "name": "Categories 3",
+            "url": "",
+            "children": [
+                {
+                    "id": "14",
+                    "name": "Social",
+                    "url": "/social",
+                    "children": []
+                },
+                {
+                    "id": "15",
+                    "name": "Updates",
+                    "url": "/",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "name": "Home 4",
+            "url": "/",
+            "children": []
+        },
+        {
+            "id": "17",
+            "name": "Employee 4",
+            "url": "/employee",
+            "children": []
+        },
+        {
+            "id": "18",
+            "name": "Categories 4",
+            "url": "",
+            "children": [
+                {
+                    "id": "19",
+                    "name": "Social",
+                    "url": "/social",
+                    "children": []
+                },
+                {
+                    "id": "20",
+                    "name": "Updates",
+                    "url": "/",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "name": "Home 5",
+            "url": "/",
+            "children": []
+        },
+        {
+            "id": "22",
+            "name": "Employee 5",
+            "url": "/employee",
+            "children": []
+        },
+        {
+            "id": "23",
+            "name": "Categories 5",
+            "url": "",
+            "children": [
+                {
+                    "id": "24",
+                    "name": "Social",
+                    "url": "/social",
+                    "children": []
+                },
+                {
+                    "id": "25",
+                    "name": "Updates",
+                    "url": "/",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "name": "Home 6",
+            "url": "/",
+            "children": []
+        },
+        {
+            "id": "27",
+            "name": "Employee 6",
+            "url": "/employee",
+            "children": []
+        },
+        {
+            "id": "28",
+            "name": "Categories 6",
+            "url": "",
+            "children": [
+                {
+                    "id": "29",
+                    "name": "Social",
+                    "url": "/social",
+                    "children": []
+                },
+                {
+                    "id": "30",
+                    "name": "Updates",
+                    "url": "/",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
